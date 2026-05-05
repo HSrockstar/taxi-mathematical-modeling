@@ -1,0 +1,7 @@
+method,level,MAE_m,RMSE_m,n_points,n_traj,elapsed_s,output
+linear,1/8,92.043,121.824,1092547,16582,0.77,submissions\task_A\baseline_linear_8.pkl
+spline,1/8,90.06,116.733,1092547,16582,6.9,submissions\task_A\baseline_spline_8.pkl
+kalman,1/8,93.473,120.764,1092547,16582,58.26,submissions\task_A\baseline_kalman_8.pkl
+linear,1/16,170.391,224.551,1170232,16582,0.58,submissions\task_A\baseline_linear_16.pkl
+spline,1/16,167.299,215.713,1170232,16582,6.83,submissions\task_A\baseline_spline_16.pkl
+kalman,1/16,177.016,226.769,1170232,16582,55.27,submissions\task_A\baseline_kalman_16.pkl
